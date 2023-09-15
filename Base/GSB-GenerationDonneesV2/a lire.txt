@@ -1,0 +1,9 @@
+Pour l'actualisation des tables FICHE_FRAIS, LIGNE_FRAIS_FORFAITISE et LIGNE_FRAIS_HORS_FORFAIT, il faut
+- Avoir installé la base et les tables FraisForfait, Visiteur et Etat
+- Copier le dossier dans le répertoire de publication
+- Ouvrir avec un éditeur le fichier majGsb_main.php
+- remplacer les valeurs de la connexion à la base avec vos paramètres
+- lancer l'interprétation du script avec le navigateur
+
+
+La générération des données pour SQL Server est développée par moi (Cf. le projet dans NetBeans).
